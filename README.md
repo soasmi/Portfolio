@@ -78,9 +78,6 @@ src/
 4. Update work experience in the workExperience array
 5. Replace images in the `public/images` directory
 
-## Deployment
-
-The easiest way to deploy your portfolio is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
 
 ## License
 
